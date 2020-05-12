@@ -1,0 +1,28 @@
+{
+  "recommend": [{
+      "image": [
+        "./static/image/knowledge/bouquet/test12.jpg",
+        "./static/image/knowledge/bouquet/test13.jpg",
+        "./static/image/knowledge/bouquet/test14.jpg",
+        "./static/image/knowledge/bouquet/test10.jpg",
+        "./static/image/knowledge/bouquet/test2.jpg",
+        "./static/image/knowledge/bouquet/test3.jpg",
+        "./static/image/knowledge/bouquet/test4.jpg"
+      ],
+      "title": "有些花束很漂亮"
+    },
+    {
+      "image": [
+        "./static/image/knowledge/bouquet/test5.jpg",
+        "./static/image/knowledge/bouquet/test6.jpg",
+        "./static/image/knowledge/bouquet/test7.jpg",
+        "./static/image/knowledge/bouquet/test8.jpg",
+        "./static/image/knowledge/bouquet/test9.jpg",
+        "./static/image/knowledge/bouquet/test10.jpg",
+        "./static/image/knowledge/bouquet/test11.jpg"
+      ],
+      "title": "奇怪的花草"
+    }
+
+  ]
+}

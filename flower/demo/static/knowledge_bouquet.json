@@ -1,0 +1,48 @@
+{
+  "bouquet": [{
+      "image": "./static/image/knowledge/bouquet/test1.jpg"
+    },
+    {
+      "image": "./static/image/knowledge/bouquet/test2.jpg"
+    },
+    {
+      "image": "./static/image/knowledge/bouquet/test3.jpg"
+    },
+    {
+      "image": "./static/image/knowledge/bouquet/test4.jpg"
+    },
+    {
+      "image": "./static/image/knowledge/bouquet/test5.jpg"
+    },
+    {
+      "image": "./static/image/knowledge/bouquet/test6.jpg"
+    },
+    {
+      "image": "./static/image/knowledge/bouquet/test7.jpg"
+    },
+    {
+      "image": "./static/image/knowledge/bouquet/test8.jpg"
+    },
+    {
+      "image": "./static/image/knowledge/bouquet/test9.jpg"
+    },
+    {
+      "image": "./static/image/knowledge/bouquet/test10.jpg"
+    },
+    {
+      "image": "./static/image/knowledge/bouquet/test11.jpg"
+    },
+    {
+      "image": "./static/image/knowledge/bouquet/test12.jpg"
+    },
+    {
+      "image": "./static/image/knowledge/bouquet/test13.jpg"
+    },
+    {
+      "image": "./static/image/knowledge/bouquet/test14.jpg"
+    },
+    {
+      "image": "./static/image/knowledge/bouquet/test15.jpg"
+    }
+  ]
+}
